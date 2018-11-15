@@ -1,0 +1,171 @@
+id,name,sequence,description
+EB0898,RAD5-A-F,ggaattccagctgaccaccgAGGCCTTAGAAACACACC,A homology forward primer used to clone RAD5.
+EB0899,RAD5-B-R,gatccccgggaattgccatggATAGAAGTTGCATGAAGTAGC,B homology reverse primer used to clone RAD5.
+EB0900,RAD5-3V5-F,gactggatagtacagatccaGCTGCAGCTAGTCATATTGAACAGGAAGAAAGG,3V5 homology forward primer used to clone RAD5.
+EB0901,RAD5-3V5-R,ccactagttctagagcggccgcTTCAAACAGCATCTGGATTTCTTC,3V5 homology reverse primer used to clone RAD5.
+EB0904,RAD5-TQ2-F,ggtggttctggtcccgggAGTCATATTGAACAGGAAGAAAGG,TQ2 homology forward primer used to clone RAD5.
+EB0905,RAD5-TQ2-R,ccagaaccgctagcagctaaTTCAAACAGCATCTGGATTTCTTC,TQ2 homology reverse primer used to clone RAD5.
+EB0902,RAD5-FLAG-A-F,ggaattccagctgaccaccgATGgactacaaagacgatgacgacaagAGTCATATTGAACAGGAAGAAAGG,A homology forward primer used to clone FLAG-RAD5.
+EB0908,RAD5-S1,ACATTACTTTGATCACAATAGC,RAD5 forward internal sequencing primer.
+EB0909,RAD5-S2,CGGTTGAGTATAGGTGATAGC,RAD5 forward internal sequencing primer.
+EB0910,RAD5-S3,CAAGGTCTTACTTGGATGC,RAD5 forward internal sequencing primer.
+EB911,RAD5-S4,ATGGTGGGAATGTTTCC,RAD5 forward internal sequencing primer.
+EB0912,RAD5-S5,GTAAGCCATTAGTAGAGTTGC,RAD5 forward internal sequencing primer.
+EB0913,RAD5-S6,TTAGAGTGCTCCATCTGC,RAD5 forward internal sequencing primer.
+EB0914,RAD5-S7,GATAGACTGCATAGAATTGG,RAD5 forward internal sequencing primer.
+EB0756,RAD5-DF,GGACACTGACAACGAATTGC,Distal forward primer for validation of proximal primer gene disruption.
+EB0757,RAD5-DR,CCACCTTGTATGGGTTCGTA,Distal reverse primer for validation of proximal primer gene disruption.
+EB0758,RAD5-PF,TAACTGCAGAAGAGCAAGGC,Proximal forward primer for gene disruption.
+EB0759,RAD5-PR,ACATTTCACAGAGGCAGCAT,Proximal reverse primer for gene disruption.
+EB1254,RAD5-int-332-R,TGCTAAAGAGAGCCCTTCCT,Gene internal reverse primer for disruption validation. Number indicates approximate position in bp downstream of start.
+EB0726,SGS1-DF,GACTTCGTGATCTGCCTGAG,Distal forward primer for validation of proximal primer gene disruption.
+EB0727,SGS1-DR,TGCCCCTCATTCATTGGAAG,Distal reverse primer for validation of proximal primer gene disruption.
+EB0728,SGS1-PF,AGCTTCTCTCCACATGTCCT,Proximal forward primer for gene disruption.
+EB0729,SGS1-PR,CCTACTGTCGCTAGACTGGA,Proximal reverse primer for gene disruption.
+EB1269,SGS1-int-364-R,GTCCTCGGGTTCGATACAAC,Gene internal reverse primer for disruption validation. Number indicates approximate position in bp downstream of start.
+EB0627,RAD51-DF,CCACGTTAATAGCGATCTGGCTTA,Distal forward primer for validation of proximal primer gene disruption.
+EB0628,RAD51-PF,GCACCACTACCGTTCTTCAACCA,Proximal forward primer for gene disruption.
+EB0629,RAD51-PR,CAACCGTACTTCTCTTGCTGTTAGC,Proximal reverse primer for gene disruption.
+EB1256,RAD51-int-285-R,CATCCGCCATAGTAATCCCG,Gene internal reverse primer for disruption validation. Number indicates approximate position in bp downstream of start.
+EB0609,RAD18-DF,GATTCATCGCAAACGGTTGG,Distal forward primer for validation of proximal primer gene disruption.
+EB0610,RAD18-PF,TCCTAAACTGGGCTGGAGTT,Proximal forward primer for gene disruption.
+EB0611,RAD18-PR,GGAAATGCAGGCATCTGGTA,Proximal reverse primer for gene disruption.
+EB1248,RAD18-int-219-R,GCAAGGACTCTCTGAACTCG,Gene internal reverse primer for disruption validation. Number indicates approximate position in bp downstream of start.
+EB0666,MMS2-DF,AGAGGACCCACCACTAT,Distal forward primer for validation of proximal primer gene disruption.
+EB0667,MMS2-PF,CCACCACTATTGCTCATTT,Proximal forward primer for gene disruption.
+EB0668,MMS2-PR,CCATTCGTAACACGTACAG,Proximal reverse primer for gene disruption.
+EB1237,MMS2-int-310-R,TGACCTTTGGGGGAGAATCT,Gene internal reverse primer for disruption validation. Number indicates approximate position in bp downstream of start.
+EB1190,UBC13-DF,TCTCATTTTGCGACGATACTT,Distal forward primer for validation of proximal primer gene disruption.
+EB1192,UBC13-PF,CCGCGGGAACAGAAAATACT,Proximal forward primer for gene disruption.
+EB1193,UBC13-PR,TCCGGAATTAAACGTGGACC,Proximal reverse primer for gene disruption.
+EB1280,UBC13-int-275-R,TTTGCGTTTTCTGCCCTAGT,Gene internal reverse primer for disruption validation. Number indicates approximate position in bp downstream of start.
+EB0708,MRE11-DF,TCATTTCGACCGTCACTC,Distal forward primer for validation of proximal primer gene disruption.
+EB1239,MRE11-int-262-R,TCTAACTCGCAAGGCTTGTC,Gene internal reverse primer. Number indicates approximate position in bp downstream of start.
+EB0749,XRS2-DF,CCAAATTGCGGTAGAATGG,Distal forward primer for validation of proximal primer gene disruption.
+EB1282,XRS2-int-297-R,ACTTTAAAACGTCCGAGGCA,Gene internal reverse primer. Number indicates approximate position in bp downstream of start.
+EB0730,RAD52-DF,CCAGTTCCCATAACGGTGAG,Distal forward primer for validation of proximal primer gene disruption.
+EB1257,RAD52-int-297-R,CGCTAGTCAACGTAACACGA,Gene internal reverse primer for disruption validation. Number indicates approximate position in bp downstream of start.
+EB0815,TOP3-DF,CCAGTGCTCAAACCATTGGAGT,Distal forward primer for validation of proximal primer gene disruption.
+EB1278,TOP3-int-320-R,TCGCTTGATGTTGCTTGCTA,Gene internal reverse primer for disruption validation. Number indicates approximate position in bp downstream of start.
+EB0699,CTF4-DF,ATTTGAGTGTAAAATCACAGG,Distal forward primer for validation of proximal primer gene disruption.
+EB1224,CTF4-int-298-R,CAGTCACGTAGGGGTAAAGC,Gene internal reverse primer for disruption validation. Number indicates approximate position in bp downstream of start.
+EB1289,RAD27-DF,AAACGTTTCCTAGTGCAGCA,Distal forward primer for validation of proximal primer gene disruption.
+EB1252,RAD27-int-315-R,CCCTTCTTGAAGACCGCTTT,Gene internal reverse primer for disruption validation. Number indicates approximate position in bp downstream of start.
+EB1383,RAD55-DF,CGACGGTGGATTAGTGACAG,Distal forward primer for validation of proximal primer gene disruption.
+EB1259,RAD55-int-315-R,GGACCCGCTTCACATTTTCT,Gene internal reverse primer for disruption validation. Number indicates approximate position in bp downstream of start.
+EB0539,CHL1-DF,GCCTGCCTGACTTCTTAGAC,Distal forward primer for validation of proximal primer gene disruption.
+EB1548,CHL1-int-221-R,GTTAGTTTCCATGCGGGTGA,Gene internal reverse primer for disruption validation. Number indicates approximate position in bp downstream of start.
+EB1285,MUS81-DF,CGGTGGTATCTACTCCGTCT,Distal forward primer for validation of proximal primer gene disruption.
+EB1240,MUS81-int-286-R,GGTCTGGTGCTACTTGTCTG,Gene internal reverse primer for disruption validation. Number indicates approximate position in bp downstream of start.
+EB0651,MMS4-DF,CAATGGTCTGCGAAGCCTTATC,Distal forward primer for validation of proximal primer gene disruption.
+EB0653,MMS4-PR,GATAACACCGCCAAACCAAAAC,Proximal reverse primer used with.
+EB0672,RAD17-DF,CCCGGTTAAGTCTAAACC,Distal forward primer for validation of proximal primer gene disruption.
+EB1247,RAD17-int-299-R,CGAATTCCTGTTCATCACGC,Gene internal reverse primer for disruption validation. Number indicates approximate position in bp downstream of start.
+EB0675,MEC3-DF,GCAGTCTGTCACTTAAGG,Distal forward primer for validation of proximal primer gene disruption.
+EB1235,MEC3-int-260-R,CTCGCGAGCTGATATAACTGT,Gene internal reverse primer for disruption validation. Number indicates approximate position in bp downstream of start.
+EB0760,RAD24-DF,AATGTTATTGCACAGGCCCT,Distal forward primer for validation of proximal primer gene disruption.
+EB1251,RAD24-int-239-R,TATGGCCACTTGCTCCAAAC,Gene internal reverse primer for disruption validation. Number indicates approximate position in bp downstream of start.
+EB0734,CSM3-DF,GCCACCAAAGGTTGATCC,Distal forward primer for validation of proximal primer gene disruption.
+EB1222,CSM3-int-299-R,ATGTGCCCAAAGCTGGTAAA,Gene internal reverse primer for disruption validation. Number indicates approximate position in bp downstream of start.
+EB0993,RAD5-int-1020-B-R,gatccccgggaattgccatggTAGAGCCAGTCTTTTCGAGC,RAD5 reverse internal primer with B homology for K.lactis URA3 pop-in pop-out marker free genome editing.
+EB0994,RAD5-int-1708-A-F,ggaattccagctgaccaccgATAATCTTCCAAGCACTTGG,RAD5 forward internal primer with A homology for K.lactis URA3 pop-in pop-out marker free genome editing.
+EB0995,RAD5-int-3100-B-R,gatccccgggaattgccatggGAGTTAGCTCTTTCTCCAGG,RAD5 reverse internal primer with B homology for K.lactis URA3 pop-in pop-out marker free genome editing.
+EB1325,rad5-R187E-val-R,agggcctgacggtgggttc,Reverse orientation genotyping primer. Pair with RAD5-DF (EB0756).
+EB1326,rad5-R229E-val-R,tcatattggatatcaaaaatttc,Reverse orientation genotyping primer. Pair with RAD5-DF (EB0756).
+EB1327,rad5-R241E-val-R,gcaatgtcttccgaaacttc,Reverse orientation genotyping primer. Pair with RAD5-DF (EB0756).
+EB1329,"rad5-DE681,682AA-val-F",tttatcgcataataatcGCTGC,Forward orientation genotyping primer. Pair with RAD5-DR (EB0757).
+EB1330,rad5-I916A-val-F,agtccttagagtgctccGC,Forward orientation genotyping primer. Pair with RAD5-DR (EB0757).
+EB0523,ADH2t-VR,CGACAACCTTGATTGGAGACTT,Reverse vector sequencing primer. Anneals to ADH2 terminator.
+EB0524,GAL1p-VF,CCTCTATACTTTAACGTCAAGG,Forward vector sequencing primer. Anneals to GAL1 promoter.
+EB0517,KlURA3-A-R,cggtggtcagctggaattccCGATGATGTAGTTTCTGGTT,Reverse K.lactis URA3 primer with B adaptamer. Use with e.g. pWJ1063 plasmid template. For use in pop-in pop-out and URA3 tagging.
+EB0518,KlURA3-B-F,ccatggcaattcccggggatcGTGATTCTGGGTAGAAGATCG,Forward K.lactis URA3 primer with B adaptamer. Use with e.g. pWJ1063 plasmid template. For use in pop-in pop-out and URA3 tagging.
+EB0519,KlURA3-int-R,GAGCAATGAACCCAATAACGAAATC,Reverse K.lactis URA3 internal primer. Use with e.g. pWJ1063 plasmid template. For use in pop-in.
+EB0520,KlURA3-int-F,CTTGACGTTCGTTCGACTGATGAGC,Forward K.lactis URA3 internal primer. Use with e.g. pWJ1063 plasmid template. For use in pop-in.
+EB1293,FLAG-F,gactacaaagacgatgacgacaag,FLAG epitope forward primer.
+EB1294,FLAG-R,cttgtcgtcatcgtctttgtagtc,FLAG epitope reverse primer.
+EB1295,A-F,GAATTCCAGCTGACCACC,A homology forward primer. This homology is used for cloning in vectors and SOEing to K.lactis URA3 fragments for pop-in pop-out marker free genome editing.
+EB1296,A-R,GGTGGTCAGCTGGAATTC,A homology reverse primer. This homology is used for cloning in vectors and SOEing to K.lactis URA3 fragments for pop-in pop-out marker free genome editing.
+EB1297,B-F,CATGGCAATTCCCGGGGATC,B homology forward primer. This homology is used for cloning in vectors and SOEing to K.lactis URA3 fragments for pop-in pop-out marker free genome editing.
+EB1298,B-R,GATCCCCGGGAATTGCCATG,B homology reverse primer. This homology is used for cloning in vectors and SOEing to K.lactis URA3 fragments for pop-in pop-out marker free genome editing.
+EB1202,NatMX-int-5'-R,gtgtcgtcaagagtggtacc,NatMX internal reverse validation primer. Anneals near 5' end of Nat.
+EB1203,NatMX-int-3'-F,ggcgctctacatgagcatgc,NatMX internal forward validation primer. Anneals near 3' end of Nat.
+EB1345,mTQ2-VF,TTGGAATTCGTTACTGCTGC,Forward vector primer for sequencing N-terminal mTQ2 tags.
+EB1346,mTQ2-VR,ACCAAAATTGGAACAACACC,Reverse vector primer for sequencing C-terminal mTQ2 tags.
+EB0521,MX-D2R,ATCGATGAATTCGAGCTCG,Reverse MX cassette primers for marker swapping.
+EB0522,MX-U2F,CGTACGCTGCAGGTCGAC,Forward MX cassette primers for marker swapping.
+EB1088,rad5-186A-mutF,CAAGTCACTGGTATGGCTgctAGACCCACCGTCAGGCCC,Forward RAD5 mutagenic primer.
+EB1089,rad5-186A-mutR,GGGCCTGACGGTGGGTCTagcAGCCATACCAGTGACTTG,Reverse RAD5 mutagenic primer.
+EB1060,rad5-187A-mutF,GTCACTGGTATGGCTACCgctCCCACCGTCAGGCCCTTG,Forward RAD5 mutagenic primer.
+EB1061,rad5-187A-mutR,CAAGGGCCTGACGGTGGGagcGGTAGCCATACCAGTGAC,Reverse RAD5 mutagenic primer.
+EB1090,rad5-R187E-mutF,GTCACTGGTATGGCTACCgaaCCCACCGTCAGGCCCTTG,Forward RAD5 mutagenic primer.
+EB1091,rad5-R187E-mutR,CAAGGGCCTGACGGTGGGttcGGTAGCCATACCAGTGAC,Reverse RAD5 mutagenic primer.
+EB1062,rad5-221A-mutF,GACTCACGTGGTAGAAAGgctGCGTCCATGGCTAGTTTG,Forward RAD5 mutagenic primer.
+EB1063,rad5-221A-mutR,CAAACTAGCCATGGACGCagcCTTTCTACCACGTGAGTC,Reverse RAD5 mutagenic primer.
+EB1064,rad5-223A-mutF,CGTGGTAGAAAGAAAGCGgctATGGCTAGTTTGGTAAGAAT,Forward RAD5 mutagenic primer.
+EB1065,rad5-223A-mutR,ATTCTTACCAAACTAGCCATagcCGCTTTCTTTCTACCACG,Reverse RAD5 mutagenic primer.
+EB1070,rad5-226A-mutF,AAGAAAGCGTCCATGGCTgctTTGGTAAGAATTTTTGATATCCAAT,Forward RAD5 mutagenic primer.
+EB1071,rad5-226A-mutR,ATTGGATATCAAAAATTCTTACCAAagcAGCCATGGACGCTTTCTT,Reverse RAD5 mutagenic primer.
+EB1012,rad5-227A-mutF,AAAGCGTCCATGGCTAGTgctGTAAGAATTTTTGATATCCAATATG,Forward RAD5 mutagenic primer.
+EB1013,rad5-227A-mutR,CATATTGGATATCAAAAATTCTTACagcACTAGCCATGGACGCTTT,Reverse RAD5 mutagenic primer.
+EB1092,rad5-228A-mutF,GCGTCCATGGCTAGTTTGgctAGAATTTTTGATATCCAATATGATAG,Forward RAD5 mutagenic primer.
+EB1093,rad5-228A-mutR,CTATCATATTGGATATCAAAAATTCTagcCAAACTAGCCATGGACGC,Reverse RAD5 mutagenic primer.
+EB1094,rad5-229A-mutF,GTCCATGGCTAGTTTGGTAgctATTTTTGATATCCAATATGATAGAG,Forward RAD5 mutagenic primer.
+EB1095,rad5-229A-mutR,CTCTATCATATTGGATATCAAAAATagcTACCAAACTAGCCATGGAC,Reverse RAD5 mutagenic primer.
+EB1096,rad5-R229E-mutF,CGTCCATGGCTAGTTTGGTAgaaATTTTTGATATCCAATATGATAGAG,Forward RAD5 mutagenic primer.
+EB1097,rad5-R229E-mutR,CTCTATCATATTGGATATCAAAAATttcTACCAAACTAGCCATGGACG,Reverse RAD5 mutagenic primer.
+EB1098,rad5-230A-mutF,CATGGCTAGTTTGGTAAGAgctTTTGATATCCAATATGATAGAGAAAT,Forward RAD5 mutagenic primer.
+EB1099,rad5-230A-mutR,ATTTCTCTATCATATTGGATATCAAAagcTCTTACCAAACTAGCCATG,Reverse RAD5 mutagenic primer.
+EB1100,rad5-231A-mutF,TGGCTAGTTTGGTAAGAATTgctGATATCCAATATGATAGAGAAATTGG,Forward RAD5 mutagenic primer.
+EB1101,rad5-231A-mutR,CCAATTTCTCTATCATATTGGATATCagcAATTCTTACCAAACTAGCCA,Reverse RAD5 mutagenic primer.
+EB1104,rad5-240A-mutF,TTGATATCCAATATGATAGAGAAATTgctAGAGTTTCGGAAGACATTG,Forward RAD5 mutagenic primer.
+EB1105,rad5-240A-mutR,CAATGTCTTCCGAAACTCTagcAATTTCTCTATCATATTGGATATCAA,Reverse RAD5 mutagenic primer.
+EB1108,rad5-R241E-mutF,CCAATATGATAGAGAAATTGGCgaaGTTTCGGAAGACATTGCTC,Forward RAD5 mutagenic primer.
+EB1109,rad5-R241E-mutR,GAGCAATGTCTTCCGAAACttcGCCAATTTCTCTATCATATTGG,Reverse RAD5 mutagenic primer.
+EB1110,rad5-242A-mutF,ATATGATAGAGAAATTGGCAGAgctTCGGAAGACATTGCTCAAA,Forward RAD5 mutagenic primer.
+EB1111,rad5-242A-mutR,TTTGAGCAATGTCTTCCGAagcTCTGCCAATTTCTCTATCATAT,Reverse RAD5 mutagenic primer.
+EB1112,rad5-243A-mutF,ATAGAGAAATTGGCAGAGTTgctGAAGACATTGCTCAAATACTA,Forward RAD5 mutagenic primer.
+EB1113,rad5-243A-mutR,TAGTATTTGAGCAATGTCTTCagcAACTCTGCCAATTTCTCTAT,Reverse RAD5 mutagenic primer.
+EB1114,rad5-244A-mutF,GAAATTGGCAGAGTTTCGgctGACATTGCTCAAATACTATACC,Forward RAD5 mutagenic primer.
+EB1115,rad5-244A-mutR,GGTATAGTATTTGAGCAATGTCagcCGAAACTCTGCCAATTTC,Reverse RAD5 mutagenic primer.
+EB1116,rad5-245A-mutF,AATTGGCAGAGTTTCGGAAgctATTGCTCAAATACTATACCCT,Forward RAD5 mutagenic primer.
+EB1117,rad5-245A-mutR,AGGGTATAGTATTTGAGCAATagcTTCCGAAACTCTGCCAATT,Reverse RAD5 mutagenic primer.
+EB1124,rad5-zipper-mutF,GAAGAACATTGACTGAAACTgctgccgcagctgcagccCGCTCGAAAAGACTGGCTCT,Forward RAD5 mutagenic primer.
+EB1125,rad5-zipper-mutR,AGAGCCAGTCTTTTCGAGCGggctgcagctgcggcagcAGTTTCAGTCAATGTTCTTC,Reverse RAD5 mutagenic primer.
+EB1126,"rad5-DE681,682AA-mutF",CTGTCAATTTTTATCGCATAATAATCgctgctGGTCATAACATTAGAAACAGAAC,Forward RAD5 mutagenic primer.
+EB1127,"rad5-DE681,682AA-mutR",GTTCTGTTTCTAATGTTATGACCagcagcGATTATTATGCGATAAAAATTGACAG,Reverse RAD5 mutagenic primer.
+EB1128,rad5-I916A-mutF,CAGTCCTTAGAGTGCTCCgctTGCACAACGGAACCTATG,Forward RAD5 mutagenic primer.
+EB1129,rad5-I916A-mutR,CATAGGTTCCGTTGTGCAagcGGAGCACTCTAAGGACTG,Reverse RAD5 mutagenic primer.
+EB1130,rad5-Q1106D-mutF,TCGCCCAGTATGGAAGATgatGCAATCGATAGACTGCATAG,Forward RAD5 mutagenic primer.
+EB1131,rad5-Q1106D-mutR,CTATGCAGTCTATCGATTGCatcATCTTCCATACTGGGCGA,Reverse RAD5 mutagenic primer.
+EB0997,rad5-N164d-A,ggaattccagctgaccaccgatgCGATTAGAAGATAAAGTTACTTGG,N-terminal truncation primer with A homology.
+EB0998,rad5-N293d-A,ggaattccagctgaccaccgatgGAACGTAATGATGGAGAATCC,N-terminal truncation primer with A homology.
+EB1591,rad5-183-197d-mutF,GGTGCTTTGCAAGTCACTattggtggaatcCAGATGAAGCTAAAGAGA,Forward RAD5 mutagenic primer.
+EB1592,rad5-183-197d-mutR,TCTCTTTAGCTTCATCTGgattccaccaatAGTGACTTGCAAAGCACC,Reverse RAD5 mutagenic primer.
+EB1593,rad5-183-189d-mutF,GGTGCTTTGCAAGTCACTGTCAGGCCCTTGAAGTA,Forward RAD5 mutagenic primer.
+EB1594,rad5-183-189d-mutR,TACTTCAAGGGCCTGACAGTGACTTGCAAAGCACC,Reverse RAD5 mutagenic primer.
+EB1595,rad5-190-197d-mutF,ATGGCTACCAGACCCACCCAGATGAAGCTAAAGAGA,Forward RAD5 mutagenic primer.
+EB1596,rad5-190-197d-mutR,TCTCTTTAGCTTCATCTGGGTGGGTCTGGTAGCCAT,Reverse RAD5 mutagenic primer.
+EB1597,rad5-204-225d-mutF,CAGATGAAGCTAAAGAGAattggtggaatcAGTTTGGTAAGAATTTTTGAT,Forward RAD5 mutagenic primer.
+EB1598,rad5-204-225d-mutR,ATCAAAAATTCTTACCAAACTgattccaccaatTCTCTTTAGCTTCATCTG,Reverse RAD5 mutagenic primer.
+EB1599,rad5-204-214d-mutF,CAGATGAAGCTAAAGAGAGACTCACGTGGTAGAAAG,Forward RAD5 mutagenic primer.
+EB1600,rad5-204-214d-mutR,CTTTCTACCACGTGAGTCTCTCTTTAGCTTCATCTG,Reverse RAD5 mutagenic primer.
+EB1601,rad5-215-225d-mutF,TCTGCTACTAAAGTATATAGTTTGGTAAGAATTTTTGAT,Forward RAD5 mutagenic primer.
+EB1602,rad5-215-225d-mutR,ATCAAAAATTCTTACCAAACTATATACTTTAGTAGCAGA,Reverse RAD5 mutagenic primer.
+EB1603,rad5-173-281d-mutF,GAAGATAAAGTTACTTGGCAATTGGATTGCTTTTTAACA,Forward RAD5 mutagenic primer.
+EB1604,rad5-173-281d-mutR,TGTTAAAAAGCAATCCAATTGCCAAGTAACTTTATCTTC,Reverse RAD5 mutagenic primer.
+RR2501,305F1,TTTGACCGTAGGCTGTGACTCG,chromosome III probe forward 36665
+RR2502,305B1,ACACCGTTGACTGAAAAGGGC,chromosome III probe reverse 37159
+RR2503,305F2,TGCCCTTTTCAGTCAACGGTG,chromosome III probe forward 37138
+RR2504,305B2,GCTTTCCTAACGCATCATCGCTAA,chromosome III probe reverse 37539
+RR2505,305F3,GGTTTTTGACCAGAAGTGTTTGGG,chromosome III probe forward 37855
+RR2506,305B3,CCTTGGACAATGAAGAATCCGAC,chromosome III probe reverse 38413
+RR2507,305F4,GCAGTCAATAAATCGGTTGGGG,chromosome III probe forward 38431
+RR2508,305B4,GTGCTAAGTGTCCTGTTTCGGAA,chromosome III probe reverse 39025
+RR2509,305F5,GCCCGACGCCGTAATAACTACT,chromosome III probe forward 39163
+RR2510,305B5,CGTTTTTAGCCCCCGTGTAAG,chromosome III probe reverse 39664
+RR2511,305F6,TGTAAGAGGCGACAGGCTCATC,chromosome III probe forward 39980
+RR2512,305B6,GGAGAAGGATAACAGCGACGAAA,chromosome III probe reverse 40359
+RR2513,305F7,CTGTTATCCTTCTCCTCCCTCCA,chromosome III probe forward 40345
+RR2514,305B7,CCCTCTTTGTGGCTTTGACCTC,chromosome III probe reverse 40693
+RR2515,305F8,GGGAAGGTGGGACAAAACTCA,chromosome III probe forward 41211
+RR2516,305B8,TTGGGCGTTGATAGCAGTGACT,chromosome III probe reverse 41544
